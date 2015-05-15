@@ -1,2 +1,2 @@
 # golearning
-books, articles for golang
+books, articles for learning golang
