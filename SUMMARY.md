@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Go For Java Programmers](go_for_java_programmers/README.md)
-* [effective go](effective_go/README.md)
 * [The way to go](the_way_to_go/README.md)
    * [起源与发展](the_way_to_go/01.1.md)
    * [语言的主要特性与发展的环境和影响因素](the_way_to_go/01.2.md)
@@ -75,7 +74,6 @@
    * [自定义包的目录结构、go install 和 go test](the_way_to_go/09.8.md)
    * [通过 git 打包和安装](the_way_to_go/09.9.md)
    * [ Go 的外部包和项目](the_way_to_go/09.10.md)
-   * [在 Go 程序中使用外部库](the_way_to_go/09.11.md)
    * [test](the_way_to_go/10.0.md)
    * [读写数据](the_way_to_go/12.0.md)
    * [读取用户的输入](the_way_to_go/12.1.md)
